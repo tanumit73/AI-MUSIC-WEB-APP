@@ -10,3 +10,13 @@ body {
     font-size: 15px;
     color: black;
 }
+
+.song_name {
+    font-size: 35px;
+    border-radius: 15px;
+}
+
+canvas {
+    border-radius: 20px;
+    border: 10px solid white;
+}
